@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInLibrariesFolders": "D:\\Arduino\\libraries",
+  "builtInToolsFolders": "D:\\Arduino\\tools-builder,D:\\Arduino\\hardware\\tools\\avr,C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=c:\\Users\\Mark\\Desktop\\ele3044t2\\garden_sensor\\build,build.warn_data_percentage=75,runtime.tools.mklittlefs.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\3.0.4-gcc10.3-1757bed,runtime.tools.mklittlefs-3.0.4-gcc10.3-1757bed.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\3.0.4-gcc10.3-1757bed,runtime.tools.python3.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1,runtime.tools.python3-3.7.2-post1.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1,runtime.tools.mkspiffs.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\3.0.4-gcc10.3-1757bed,runtime.tools.mkspiffs-3.0.4-gcc10.3-1757bed.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\3.0.4-gcc10.3-1757bed,runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\3.0.4-gcc10.3-1757bed,runtime.tools.xtensa-lx106-elf-gcc-3.0.4-gcc10.3-1757bed.path=C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\3.0.4-gcc10.3-1757bed",
+  "fqbn": "esp8266:esp8266:huzzah:xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,eesz=4M2M,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+  "hardwareFolders": "D:\\Arduino\\hardware,C:\\Users\\Mark\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Mark\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10816",
+  "sketchLocation": "c:\\Users\\Mark\\Desktop\\ele3044t2\\garden_sensor\\src\\main.cpp"
+}
